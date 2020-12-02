@@ -10,6 +10,5 @@ public class Main {
         System.out.println("myString is equal to " + myString);
         myString = myString + " \u00A9 2020";
         System.out.println("myString is equal to " + myString);
-        String
     }
 }
